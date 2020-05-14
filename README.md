@@ -1,0 +1,2 @@
+# amharicquiz
+my quiz
